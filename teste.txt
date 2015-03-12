@@ -2,6 +2,7 @@ Estudar developer API GitHub
 Estudar developer API Jenkins
 
 
+
 Consigo reabrir via linha de comando?
 Quais regras para reabrir uma issue?
 Consigo reabrir via linha de comando sem commit?
